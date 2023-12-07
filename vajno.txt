@@ -1,0 +1,15 @@
+1. pravene client papka - v neq (npm create vite . -- --template react)
+npm install 
+npm run dev
+2. server.js 
+cd ../
+cd server
+node server.js
+
+class to className v indexTemp
+
+<img> to <img/> 
+
+for to htmlFor
+
+<input> to <input/>
